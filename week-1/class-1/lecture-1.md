@@ -6,7 +6,7 @@
 * Purpose of this program
 * Purpose of this class
 * How can you excel in this class & program?
-* History of Computers
+* History of Computers : https://computerhistory.org/timelines/
 * Windows vs Unix vs Linux
 * Why is linux so important?
 * What is the Cloud?
