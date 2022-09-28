@@ -39,11 +39,11 @@ Reference: https://www.tutorialspoint.com/computer_concepts/computer_concepts_hi
 
 #### Simple Diagram of a computer
 ![image](https://user-images.githubusercontent.com/64248085/192855515-3834da9b-1f16-4dfd-b2b7-8d2db8ff6fdc.png)
+* Reference: https://artoftesting.com/block-diagram-of-computer
 
 #### OS components:
 https://www.guru99.com/components-of-operating-system.html
 
-* Reference: https://artoftesting.com/block-diagram-of-computer
 * The Xerox Thieve: https://www.youtube.com/watch?v=pQocN_c2uLI
 * How an Operating System works in 100 seconds?: https://www.youtube.com/watch?v=vqs_0W-MSB0
 * Why so many linux distros?: https://www.youtube.com/watch?v=ShcR4Zfc6Dw
